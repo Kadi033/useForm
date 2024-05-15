@@ -1,0 +1,7 @@
+export { default as logo } from "../assets/images/1.png"
+export { default as emailIcon } from "../assets/images/2.png"
+export { default as passwordIcon } from "../assets/images/3.png"
+export { default as link } from "../assets/images/4.png"
+export { default as profile } from "../assets/images/5.png"
+export { default as phone } from "../assets/images/6.png"
+export { default as ilustration } from "../assets/images/7.png"

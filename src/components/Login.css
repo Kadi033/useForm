@@ -1,0 +1,10 @@
+
+.shadow-hover {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+.shadow-hover:hover {
+    border-color: #633cff;
+    box-shadow: 0 1px 12px 0 #a894f8;
+}
